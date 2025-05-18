@@ -1,7 +1,7 @@
 ## Hello 👋 I am Kry Sobothty
 
 # 💫 About Me:
-I'm currently learning and looking for work as Flutter development internship<br>
+I'm currently learning and looking for a Web developer internship<br>
 
 
 ## 🌐 Socials:
